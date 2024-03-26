@@ -63,6 +63,8 @@
                     </div>
                 </div>
             </div>
+
+            
         </form>
         <div id="result">
             <h2>Kết quả xếp loại</h2>
@@ -82,6 +84,7 @@
                             }
                             echo $Tongdiem;
                         }
+
                     ?>
                 </div>
             </div>
