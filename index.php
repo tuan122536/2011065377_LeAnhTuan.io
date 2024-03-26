@@ -47,6 +47,10 @@
                     <option value="2"> Khu vực 2</option>
                     <option value="3"> Khu vực 3</option>
                     <option value="4"> Khu vực 4</option>
+                    <option value="3"> Khu vực 3</option>
+                    <option value="4"> Khu vực 4</option>
+                    <option value="3"> Khu vực 3</option>
+                    <option value="4"> Khu vực 4</option>
                 </select>
             </div>
         </div>
